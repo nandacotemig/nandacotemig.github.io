@@ -1,0 +1,96 @@
+body { margin: 0;
+    font-size: 20px;}
+    table {width: 100%;
+    height: 100vh;}
+    .txt2{font-size: 40px;
+    background-color: rgb(31, 29, 29);
+    font-family: "Loved by the King";}
+    td{
+    width: 5%;}
+    
+    .txt1 {font-family: "Josefin Slab";
+        font-size: 25px;
+        background-color: rgb(54, 63, 185);
+    }
+  
+    
+    .txt11{
+        font-family: "Josefin Slab";
+        font-size: 26px;
+        color: azure;
+        text-align: center;}
+    
+    .txt15{
+            font-family: "Josefin Slab";
+            font-size: 26px;
+            color: azure;}
+    
+    .txt9{text-align: center;
+        font-family: "Jersey 10";
+        font-size: 30px;
+        background-color:rgb(54, 66, 105);}
+    
+    .txt8{text-align: center;
+        font-family: "Jersey 10";
+        font-size: 44px;
+    color: azure;}
+     
+
+    .esp2{height: 3vh;
+    background-color: rgb(31, 29, 29);}
+    
+    .esp1{height: 7vh;
+    background-color: brown;
+    color: azure;
+    text-align: center;}
+    
+    .esp3{height: 13vh;
+        color: azure;
+    background-color: rgb(31, 29, 29);}
+
+
+    .fds{        font-family: "Josefin Slab";
+        font-size: 31px;}
+    .fdp{        font-family: "Josefin Slab";
+        font-size: 30.8px;
+    color: rgb(255, 255, 255);}
+    .idiota{        font-family: "Josefin Slab";
+        font-size: 37px;
+    color: rgb(255, 255, 255);}
+
+
+    .esp4{height: 4vh;
+    width: 33%;
+    color: rgb(54, 66, 105);
+    background-color: rgb(31, 29, 29)
+    }
+    
+    .esp5{height: 11vh;
+    background-color: rgb(31, 29, 29)}
+    
+    .esp6{height: 4vh;
+    background-color: rgb(31, 29, 29)}
+    
+    .esp7{height: 11vh;
+        color: azure;
+    background-color: rgb(31, 29, 29);
+    font-family: "Josefin Slab";
+        font-size: 37px;
+    }
+    
+    .esp8{height: 4vh;
+    background-color: rgb(31, 29, 29)}
+    
+    .esp9{height: 15vh;
+    background-color: rgb(31, 29, 29)}
+    
+    .esp10{height: 4vh;
+    background-color: rgb(31, 29, 29)}
+    
+    .esp11{height: 4vh;
+        background-color: rgb(13, 12, 12)}
+
+        .img1 {
+            height: 150px;
+            text-align: center;
+        }
